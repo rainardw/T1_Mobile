@@ -626,8 +626,9 @@ No  ID       Nama                         Kategori        Harga        Stok
 1   F001     Tongkat Sihir Elderwood      Senjata         Rp 15000000   5       
 2   F002     Ramuan Pemulihan Jiwa        Ramuan          Rp 250000     20      
 3   F003     Grimoire Sihir Kuno          Buku Sihir      Rp 750000     15      
-...```
+```
 #### Proses Checkout dengan Transfer
+```
 ```
 Metode Pembayaran:
 1. Tunai
@@ -673,7 +674,7 @@ Order per Status:
 
 Rata-rata Nilai Order: Rp 12500000
 ```
-#### KElas Diagram
+#### Kelas Diagram
 ```
 ┌─────────────────────────────────────────────────────┐
 │                  <<sealed>>                          │
