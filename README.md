@@ -506,7 +506,7 @@ forEachIndexed         | forEachIndexed { index, mhs -> }  | Loop dengan index
 isNotEmpty             | lulus.isNotEmpty()                | Cek list tidak kosong
 
 #### Flowchart
-
+```
 ┌─────────────────────────────────────────────────────────────┐
 │                            MULAI                            │
 └─────────────────────────────────────────────────────────────┘
@@ -562,30 +562,13 @@ isNotEmpty             | lulus.isNotEmpty()                | Cek list tidak koso
 ┌─────────────────────────────────────────────────────────────┐
 │                            SELESAI                          │
 └─────────────────────────────────────────────────────────────┘
-
+```
 
 
 
 # 🏪 DARENDLE Fantasy Emporium - Kotlin E-Commerce System
 
 Sistem toko online bertema fantasi yang dibangun menggunakan **Kotlin** dengan implementasi konsep OOP modern: **Sealed Class**, **Data Class**, **Interface**, **Higher-Order Function**, **Collections Operations**, dan **Null Safety**.
-
----
-
-## 📋 Daftar Isi
-
-- [📋 Deskripsi](#-deskripsi)
-- [✨ Fitur Utama](#-fitur-utama)
-- [🏗️ Arsitektur Kode](#️-arsitektur-kode)
-- [📁 Struktur File](#-struktur-file)
-- [🚀 Cara Menjalankan](#-cara-menjalankan)
-- [💻 Contoh Penggunaan](#-contoh-penggunaan)
-- [🛠️ Penjelasan Komponen Kode](#️-penjelasan-komponen-kode)
-- [📊 Diagram Kelas](#-diagram-kelas)
-- [🔧 Teknologi](#-teknologi)
-- [👨‍💻 Author](#-author)
-- [📄 License](#-license)
-
 ---
 
 # DARENDLE Fantasy Emporium** adalah aplikasi konsol interaktif untuk simulasi toko online dengan tema fantasi. Program ini memungkinkan pengguna untuk:
