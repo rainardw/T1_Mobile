@@ -71,6 +71,7 @@ java -jar Tugas3_Penilaian.jar
 
 #### 4. 💻 Contoh Output
 #### Skenario 1. Mahasiswa Lulus
+```
 ===== SISTEM PENILAIAN =====
 
 Masukkan Nama Mahasiswa: Budi Santoso
@@ -89,8 +90,9 @@ Grade            : B
 Keterangan       : Baik
 Status           : LULUS
 Selamat! Anda dinyatakan LULUS.
-
+```
 #### Skenario 2. Mahasiswa Tidak Lulus
+```
 ===== SISTEM PENILAIAN =====
 
 Masukkan Nama Mahasiswa: Ani Wijaya
@@ -110,8 +112,9 @@ Keterangan       : Sangat Kurang
 Status           : TIDAK LULUS
 
 Maaf, Anda dinyatakan TIDAK LULUS. Jangan menyerah!
-
+```
 #### 5.  Alur Kode - Sistem Penilaian Mahasiswa Kotlin
+```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                 MULAI                                   │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -197,7 +200,7 @@ Maaf, Anda dinyatakan TIDAK LULUS. Jangan menyerah!
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                 SELESAI                                 │
 └─────────────────────────────────────────────────────────────────────────┘
-
+```
 #### 6. Alur Input Data
 ```bash
 print("Masukkan Nama Mahasiswa: ")
