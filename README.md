@@ -571,7 +571,7 @@ isNotEmpty             | lulus.isNotEmpty()                | Cek list tidak koso
 Sistem toko online bertema fantasi yang dibangun menggunakan **Kotlin** dengan implementasi konsep OOP modern: **Sealed Class**, **Data Class**, **Interface**, **Higher-Order Function**, **Collections Operations**, dan **Null Safety**.
 ---
 
-# DARENDLE Fantasy Emporium** adalah aplikasi konsol interaktif untuk simulasi toko online dengan tema fantasi. Program ini memungkinkan pengguna untuk:
+#### Program ini memungkinkan pengguna untuk:
 
 - 🛍️ Menjelajahi katalog produk fantasi (tongkat sihir, ramuan, jimat, dll.)
 - 🛒 Menambah/menghapus produk ke keranjang belanja
