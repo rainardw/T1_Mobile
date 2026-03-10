@@ -207,6 +207,7 @@ print("Masukkan Nama Mahasiswa: ")
 val nama = readLine()?.ifEmpty { null } ?: "Tanpa Nama"
 ```
 ####  flowchart
+```
 ┌─────────────────┐
 │   readLine()    │
 └─────────────────┘
@@ -222,7 +223,7 @@ val nama = readLine()?.ifEmpty { null } ?: "Tanpa Nama"
    │         │
    ▼         ▼
 "Nama"   "Tanpa Nama"
-
+```
 #### Input Nilai (UTS, UAS, Tugas)
 ```bash
 fun mintaNilai(namaKomponen: String): Double {
