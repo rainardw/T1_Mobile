@@ -61,6 +61,7 @@ Nilai Akhir = (UTS × 0.3) + (UAS × 0.4) + (Tugas × 0.3)
 ```bash
 git clone <repository-url>
 cd <folder-proyek>
+```
 
 #### 2. Compile File Kotlin
 kotlinc Tugas3_Penilaian.kt -include-runtime -d Tugas3_Penilaian.jar
@@ -201,7 +202,7 @@ Maaf, Anda dinyatakan TIDAK LULUS. Jangan menyerah!
 ```bash
 print("Masukkan Nama Mahasiswa: ")
 val nama = readLine()?.ifEmpty { null } ?: "Tanpa Nama"
-
+```
 ####  flowchart
 ┌─────────────────┐
 │   readLine()    │
@@ -232,7 +233,7 @@ fun mintaNilai(namaKomponen: String): Double {
         }
     }
 }
-
+```
 ####
                     ┌───────────────┐
                     │  while(true)  │
@@ -283,7 +284,7 @@ val grade = when {
     nilaiAkhir in 50.0..59.9 -> "D"
     else -> "E"
 }
-
+```
 #### Decision Tree:
 
                          ┌──────────────┐
