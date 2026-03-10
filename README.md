@@ -629,7 +629,6 @@ No  ID       Nama                         Kategori        Harga        Stok
 ```
 #### Proses Checkout dengan Transfer
 ```
-```
 Metode Pembayaran:
 1. Tunai
 2. Transfer Bank
